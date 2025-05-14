@@ -37,3 +37,7 @@
   animation-iteration-count: infinite !important;
   background-color: purple
 }
+
+body {
+  background-image: linear-gradient(lightblue, lightsalmon, lightblue);
+}
